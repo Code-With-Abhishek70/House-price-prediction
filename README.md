@@ -33,4 +33,4 @@ RMSE: 41138.55870230106
 
 
 ## Author 
-Abhishek Kumar || <a href="www.linkedin.com/in/abhishek-kumar-68617a326">Linkedin
+Abhishek Kumar || [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-68617a326/)
